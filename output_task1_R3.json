@@ -45,7 +45,10 @@
       "Contributor": "kit7fe",
       "Title": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Document Specific Glossary</div>",
       "Creator": "kit7fe"
-    },
+    }
+  ],
+  "Module ID": "629011",
+  "List Artiface Info 2": [
     {
       "ReqIF.Text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n<p xmlns=\"http://www.w3.org/1999/xhtml\">&lt;put below a definition of first glossary specific terms&gt;</p>\n</div>",
       "Identifier": "629013",

@@ -1,0 +1,212 @@
+{
+    "Module Name":{
+        "MappingType":"1-1",
+        "Source":"ModuleName"
+    },
+    "Sub-heading 1":{
+        "MappingType":"1-1",
+        "Source":{
+            "ReqIF.Text":{
+                "MappingType":"1-1",
+                "Source":"ReqIF.ChapterName"
+            }
+        }
+    },
+    "Sub-heading 2":{
+        "MappingType":"1-1",
+        "Source":{
+            "ReqIF.Text":{
+                "MappingType":"1-1",
+                "Source":"ReqIF.ChapterName"
+            }
+        }
+    },
+    "List Artifact 1":{
+        "MappingType":"Array",
+        "Source":[
+            {
+                "ReqIF.Text":{
+                    "MappingType":"1-1",
+                    "Source":"ReqIF.Text",
+                    "Placement":"Content"
+                },
+                "Identifier":{
+                    "MappingType":"1-1",
+                    "Source":"ReqIF.ForeignID"
+                },
+                "Attribute Type":{
+                    "MappingType":"1-1",
+                    "Source":"ArtifactType"
+                }
+            }
+        ]
+    },
+    "Sub-heading 3":{
+        "MappingType":"1-1",
+        "Source":{
+            "ReqIF.Text":{
+                "MappingType":"1-1",
+                "Source":"ReqIF.ChapterName"
+            }
+        }
+    },
+    "List Artifact 2":{
+        "MappingType":"Array",
+        "Source":[
+            {
+                "ReqIF.Text":{
+                    "MappingType":"1-1",
+                    "Source":"ReqIF.Text",
+                    "Placement":"Content"
+                },
+                "Identifier":{
+                    "MappingType":"1-1",
+                    "Source":"ReqIF.ForeignID"
+                },
+                "Attribute Type":{
+                    "MappingType":"1-1",
+                    "Source":"ArtifactType"
+                }
+            }
+        ]
+    },
+    "Sub-heading 4":{
+        "MappingType":"1-1",
+        "Source":{
+            "ReqIF.Text":{
+                "MappingType":"1-1",
+                "Source":"ReqIF.ChapterName"
+            }
+        }
+    },
+    "List Artifact 3":{
+        "MappingType":"Array",
+        "Source":[
+            {
+                "ReqIF.Text":{
+                    "MappingType":"1-1",
+                    "Source":"ReqIF.Text",
+                    "Placement":"Content"
+                },
+                "Identifier":{
+                    "MappingType":"1-1",
+                    "Source":"ReqIF.ForeignID"
+                },
+                "Attribute Type":{
+                    "MappingType":"1-1",
+                    "Source":"ArtifactType"
+                }
+            }
+        ]
+    },
+    "Sub-heading 5":{
+        "MappingType":"1-1",
+        "Source":{
+            "ReqIF.Text":{
+                "MappingType":"1-1",
+                "Source":"ReqIF.ChapterName"
+            }
+        }
+    },
+    "List Artifact 4":{
+        "MappingType":"Array",
+        "Source":[
+            {
+                "Status":{
+                    "MappingType":"Custom",
+                    "Source":"Status",
+                    "CustomValues":{
+                        "NEW/CHANGED":"New/Changed",
+                        "APPROVED":"Approved",
+                        "DELETED":"Deleted"
+                    }
+                },
+                "id":{
+                    "MappingType":"1-1",
+                    "Source":"ReqIF.ForeignID"
+                },
+                "safety_level":{
+                    "MappingType":"Custom",
+                    "Source":"Safety Classification",
+                    "CustomValues":{
+                        "ASIL A":"asil a",
+                        "ASIL B":"asil b"
+                    }
+                },
+                "artifact_type":{
+                    "MappingType":"1-1",
+                    "Source":"ArtifactType"
+                },
+                "crq":{
+                    "MappingType":"1-1",
+                    "Source":"CRQ"
+                },
+                "ReqIF.Text":{
+                    "MappingType":"1-1",
+                    "Source":"ReqIF.Text",
+                    "Placement":"Content"
+                },
+                "verify":{
+                    "MappingType":"1-1",
+                    "Source":"Verification Criteria",
+                    "Placement":"Sub-directive"
+                }
+            }
+        ]
+    },
+    "Sub-heading 6":{
+        "MappingType":"1-1",
+        "Source":{
+            "ReqIF.Text":{
+                "MappingType":"1-1",
+                "Source":"ReqIF.ChapterName"
+            }
+        }
+    },
+    "List Artifact 5":{
+        "MappingType":"Array",
+        "Source":[
+            {
+                "Status":{
+                    "MappingType":"Custom",
+                    "Source":"Status",
+                    "CustomValues":{
+                        "NEW/CHANGED":"New/Changed",
+                        "APPROVED":"Approved",
+                        "DELETED":"Deleted"
+                    }
+                },
+                "id":{
+                    "MappingType":"1-1",
+                    "Source":"ReqIF.ForeignID"
+                },
+                "safety_level":{
+                    "MappingType":"Custom",
+                    "Source":"Safety Classification",
+                    "CustomValues":{
+                        "ASIL A":"asil a",
+                        "ASIL B":"asil b"
+                    }
+                },
+                "artifact_type":{
+                    "MappingType":"1-1",
+                    "Source":"ArtifactType"
+                },
+                "crq":{
+                    "MappingType":"1-1",
+                    "Source":"CRQ"
+                },
+                "ReqIF.Text":{
+                    "MappingType":"1-1",
+                    "Source":"ReqIF.Text",
+                    "Placement":"Content"
+                },
+                "verify":{
+                    "MappingType":"1-1",
+                    "Source":"Verification Criteria",
+                    "Placement":"Sub-directive"
+                }
+            }
+        ]
+    }
+}

@@ -1,142 +1,64 @@
 {
   "Module Name": "ECU_Requirement",
-  "Module Type": "MO_RS",
-  "List Artifact Info": [
-    {
-      "ReqIF.Text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n<p xmlns=\"http://www.w3.org/1999/xhtml\">General Overview / Document Scope</p>\n</div>",
-      "Identifier": "629021",
-      "Created On": "2019-10-08T06:18:45.677Z",
-      "Description": "<div xmlns=\"http://www.w3.org/1999/xhtml\"/>",
-      "Attribute Type": "Heading",
-      "Modified On": "2019-10-08T06:18:45.677Z",
-      "Contributor": "kit7fe",
-      "Title": "<div xmlns=\"http://www.w3.org/1999/xhtml\">General Overview / Document Scope</div>",
-      "Creator": "kit7fe"
-    },
-    {
-      "ReqIF.Text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n<p xmlns=\"http://www.w3.org/1999/xhtml\">Document Scope</p>\n</div>",
-      "Identifier": "629020",
-      "Created On": "2019-10-08T06:18:45.662Z",
-      "Description": "<div xmlns=\"http://www.w3.org/1999/xhtml\"/>",
-      "Attribute Type": "Heading",
-      "Modified On": "2019-10-08T06:18:45.662Z",
-      "Contributor": "kit7fe",
-      "Title": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Document Scope</div>",
-      "Creator": "kit7fe"
-    },
+  "Sub-heading 1": {
+    "ReqIF.Text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n<p xmlns=\"http://www.w3.org/1999/xhtml\">General Overview / Document Scope</p>\n</div>"
+  },
+  "Sub-heading 2": {
+    "ReqIF.Text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n<p xmlns=\"http://www.w3.org/1999/xhtml\">Document Scope</p>\n</div>"
+  },
+  "List Artifact 1": [
     {
       "ReqIF.Text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n<p xmlns=\"http://www.w3.org/1999/xhtml\">&lt;put below a first description of the scope for ECU requirement specification&gt;</p>\n</div>",
       "Identifier": "629016",
-      "Created On": "2019-10-08T06:18:45.662Z",
-      "Description": "<div xmlns=\"http://www.w3.org/1999/xhtml\"/>",
-      "Attribute Type": "Information",
-      "Modified On": "2019-10-08T06:18:45.662Z",
-      "Contributor": "kit7fe",
-      "Title": "<div xmlns=\"http://www.w3.org/1999/xhtml\">&lt;put below a first description of the scope for software requirement specification&gt;</div>",
-      "Creator": "kit7fe"
-    },
-    {
-      "ReqIF.Text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n<p xmlns=\"http://www.w3.org/1999/xhtml\">Document Specific Glossary</p>\n</div>",
-      "Identifier": "629012",
-      "Created On": "2019-10-08T06:18:45.662Z",
-      "Description": "<div xmlns=\"http://www.w3.org/1999/xhtml\"/>",
-      "Attribute Type": "Heading",
-      "Modified On": "2019-10-08T06:18:45.662Z",
-      "Contributor": "kit7fe",
-      "Title": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Document Specific Glossary</div>",
-      "Creator": "kit7fe"
+      "Attribute Type": "Information"
     }
   ],
-  "Module ID": "629011",
-  "List Artiface Info 2": [
+  "Sub-heading 3": {
+    "ReqIF.Text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n<p xmlns=\"http://www.w3.org/1999/xhtml\">Document Specific Glossary</p>\n</div>"
+  },
+  "List Artifact 2": [
     {
       "ReqIF.Text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n<p xmlns=\"http://www.w3.org/1999/xhtml\">&lt;put below a definition of first glossary specific terms&gt;</p>\n</div>",
       "Identifier": "629013",
-      "Created On": "2019-10-08T06:18:45.677Z",
-      "Description": "<div xmlns=\"http://www.w3.org/1999/xhtml\"/>",
-      "Attribute Type": "Information",
-      "Modified On": "2019-10-08T06:18:45.677Z",
-      "Contributor": "kit7fe",
-      "Title": "<div xmlns=\"http://www.w3.org/1999/xhtml\">&lt;put below a definition of first glossary specific terms&gt;</div>",
-      "Creator": "kit7fe"
-    },
-    {
-      "ReqIF.Text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n<p xmlns=\"http://www.w3.org/1999/xhtml\">System Requirements</p>\n</div>",
-      "Identifier": "629019",
-      "Created On": "2019-10-08T06:18:45.662Z",
-      "Description": "<div xmlns=\"http://www.w3.org/1999/xhtml\"/>",
-      "Attribute Type": "Heading",
-      "Modified On": "2019-10-08T06:18:45.662Z",
-      "Contributor": "kit7fe",
-      "Title": "<div xmlns=\"http://www.w3.org/1999/xhtml\">System Requirement</div>",
-      "Creator": "kit7fe"
-    },
+      "Attribute Type": "Information"
+    }
+  ],
+  "Sub-heading 4": {
+    "ReqIF.Text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n<p xmlns=\"http://www.w3.org/1999/xhtml\">System Requirements</p>\n</div>"
+  },
+  "List Artifact 3": [
     {
       "ReqIF.Text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n<p xmlns=\"http://www.w3.org/1999/xhtml\">&lt;infos relevant for the complete chapter&gt;<br xmlns=\"http://www.w3.org/1999/xhtml\"/>Note to the template:<br xmlns=\"http://www.w3.org/1999/xhtml\"/>- the example requirements below are independent of each other and are showing the different possibilities of the requirements structure</p>\n</div>",
       "Identifier": "629017",
-      "Created On": "2019-10-08T06:18:45.677Z",
-      "Description": "<div xmlns=\"http://www.w3.org/1999/xhtml\"/>",
-      "Attribute Type": "Information",
-      "Modified On": "2019-10-08T06:18:45.677Z",
-      "Contributor": "kit7fe",
-      "Title": "<div xmlns=\"http://www.w3.org/1999/xhtml\">&lt;infos relevant for the complete chapter&gt;</div>",
-      "Creator": "kit7fe"
-    },
-    {
-      "ReqIF.Text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n<p xmlns=\"http://www.w3.org/1999/xhtml\">ECU 1st Requirement</p>\n</div>",
-      "Identifier": "629022",
-      "Created On": "2019-10-08T06:18:45.646Z",
-      "Description": "<div xmlns=\"http://www.w3.org/1999/xhtml\"/>",
-      "Attribute Type": "Heading",
-      "Modified On": "2019-10-08T06:18:45.646Z",
-      "Contributor": "kit7fe",
-      "Title": "<div xmlns=\"http://www.w3.org/1999/xhtml\">ECU 1st Requirement</div>",
-      "Creator": "kit7fe"
-    },
+      "Attribute Type": "Information"
+    }
+  ],
+  "Sub-heading 5": {
+    "ReqIF.Text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n<p xmlns=\"http://www.w3.org/1999/xhtml\">ECU 1st Requirement</p>\n</div>"
+  },
+  "List Artifact 4": [
     {
       "Status": "New/Changed",
-      "Created On": "2019-10-08T06:18:45.662Z",
-      "Description": "<div xmlns=\"http://www.w3.org/1999/xhtml\"/>",
-      "CRQ": "RQONE03587423",
-      "Attribute Type": "MO_FUNC_REQ",
-      "Modified On": "2023-05-23T02:41:23.510Z",
-      "Title": "<div xmlns=\"http://www.w3.org/1999/xhtml\">&lt;description of the requirement in requirements language&gt;</div>",
-      "Contributor": "MIG1COB",
-      "Verification Criteria": "Test Environment:\nTest Bench/Lab-car with hardware setup\n\nSuccess Criteria: Verify whether the signal value is correct or not",
-      "Creator": "kit7fe",
-      "VAR_FUNC_SYS": "VAR_Func_sys value",
+      "id": "629015",
+      "safety_level": "asil a",
+      "artifact_type": "MO_FUNC_REQ",
+      "crq": "RQONE03587423",
       "ReqIF.Text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n<p xmlns=\"http://www.w3.org/1999/xhtml\">&lt;description of the requirement in requirements language&gt;</p>\n<p xmlns=\"http://www.w3.org/1999/xhtml\"><b xmlns=\"http://www.w3.org/1999/xhtml\">VEHICLE_SYSTEM_BEHAVIOUR</b><br xmlns=\"http://www.w3.org/1999/xhtml\"/>&lt;Optional: description of desired vehicle behaviour (&quot;development target&quot;)&gt;\u00a0\u00a0 \u00a0<br xmlns=\"http://www.w3.org/1999/xhtml\"/><b xmlns=\"http://www.w3.org/1999/xhtml\">CONSTRAINT\u00a0\u00a0</b> \u00a0<br xmlns=\"http://www.w3.org/1999/xhtml\"/>&lt;Optional: constraints on the solution space for the requirement&gt;<br xmlns=\"http://www.w3.org/1999/xhtml\"/><b xmlns=\"http://www.w3.org/1999/xhtml\">IMPACT\u00a0</b>\u00a0 \u00a0<br xmlns=\"http://www.w3.org/1999/xhtml\"/>&lt;Optional: description of possible cross-functional impact of the requirement, or impact on other components&gt;<br xmlns=\"http://www.w3.org/1999/xhtml\"/><b xmlns=\"http://www.w3.org/1999/xhtml\">INFO</b><br xmlns=\"http://www.w3.org/1999/xhtml\"/>&lt;Optional: additional informations about the requirement:<br xmlns=\"http://www.w3.org/1999/xhtml\"/>- know-how<br xmlns=\"http://www.w3.org/1999/xhtml\"/>- background<br xmlns=\"http://www.w3.org/1999/xhtml\"/>- HW dependencies related to the system requirement<br xmlns=\"http://www.w3.org/1999/xhtml\"/>- internal signals<br xmlns=\"http://www.w3.org/1999/xhtml\"/>- etc&gt;<br xmlns=\"http://www.w3.org/1999/xhtml\"/><b xmlns=\"http://www.w3.org/1999/xhtml\">ASSUMPTION</b><br xmlns=\"http://www.w3.org/1999/xhtml\"/>&lt;Optional: assumptions on the requirement&gt;</p>\n<p xmlns=\"http://www.w3.org/1999/xhtml\">\u00a0</p>\n</div>",
-      "Identifier": "629015",
-      "Allocation": "SW Allocation",
-      "Safety Classification": "asil a"
-    },
-    {
-      "ReqIF.Text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n<p xmlns=\"http://www.w3.org/1999/xhtml\">System Non Functional Requirements</p>\n</div>",
-      "Identifier": "629018",
-      "Created On": "2019-10-08T06:18:45.677Z",
-      "Description": "<div xmlns=\"http://www.w3.org/1999/xhtml\"/>",
-      "Attribute Type": "Heading",
-      "Modified On": "2019-10-08T06:18:45.677Z",
-      "Contributor": "kit7fe",
-      "Title": "<div xmlns=\"http://www.w3.org/1999/xhtml\">System Non Fonctional Requirements</div>",
-      "Creator": "kit7fe"
-    },
+      "verify": "Test Environment:\nTest Bench/Lab-car with hardware setup\n\nSuccess Criteria: Verify whether the signal value is correct or not"
+    }
+  ],
+  "Sub-heading 6": {
+    "ReqIF.Text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n<p xmlns=\"http://www.w3.org/1999/xhtml\">System Non Functional Requirements</p>\n</div>"
+  },
+  "List Artifact 5": [
     {
       "Status": "New/Changed",
-      "Created On": "2019-10-08T06:18:45.677Z",
-      "Description": "<div xmlns=\"http://www.w3.org/1999/xhtml\"/>",
-      "CRQ": "RQONE03587423",
-      "Attribute Type": "MO_NON_FUNC_REQ",
-      "Modified On": "2023-05-23T02:56:54.487Z",
-      "Title": "<div xmlns=\"http://www.w3.org/1999/xhtml\">&lt;description of the non functional requirement in requirements language&gt;</div>",
-      "Contributor": "MIG1COB",
-      "Verification Criteria": "Non Func Test Environment:\nTest Bench/Lab-car with hardware setup\n\nSuccess Criteria: Verify whether the signal value is correct or not",
-      "Creator": "kit7fe",
-      "VAR_FUNC_SYS": "Var_func_sys value 2",
+      "id": "629014",
+      "safety_level": "asil b",
+      "artifact_type": "MO_NON_FUNC_REQ",
+      "crq": "RQONE03587423",
       "ReqIF.Text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n<p xmlns=\"http://www.w3.org/1999/xhtml\">&lt;description of the non functional requirement in requirements language&gt;</p>\n</div>",
-      "Identifier": "629014",
-      "Allocation": "Non_Func Allocation",
-      "Safety Classification": "asil b"
+      "verify": "Non Func Test Environment:\nTest Bench/Lab-car with hardware setup\n\nSuccess Criteria: Verify whether the signal value is correct or not"
     }
   ]
 }

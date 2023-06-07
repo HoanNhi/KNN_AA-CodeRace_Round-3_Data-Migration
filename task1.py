@@ -7,8 +7,9 @@ import sys
 
 input_file_path = sys.argv[1]
 config_file_path = sys.argv[2]
+#Uncomment lines below to debug
 #input_file_path = "Requirements.reqif"
-#config_file_path = "testconfig3.json"
+#config_file_path = "Config_file.json"
 data = {}
 
 

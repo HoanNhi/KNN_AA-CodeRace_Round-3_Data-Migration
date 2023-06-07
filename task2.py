@@ -6,6 +6,7 @@ import htmltools
 import re
 
 input_file_path = sys.argv[1]
+#Uncomment line below to debug
 #input_file_path = "output_task1_R3.json"
 config_file_path = "Config_file.json"
 output_file_path = "output_task2_R3.rst"

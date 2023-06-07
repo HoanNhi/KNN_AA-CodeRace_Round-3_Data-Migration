@@ -1,0 +1,6 @@
+html2text
+beautifulsoup4
+reqif
+rstcloth
+htmltools
+GitPython

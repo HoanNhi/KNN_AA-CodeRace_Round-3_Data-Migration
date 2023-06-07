@@ -161,7 +161,7 @@ def reqIFtoJSON(input_file_path, config_file_path):
 
 data = reqIFtoJSON(input_file_path, config_file_path)
 try:
-    with open("output_task1_R3.json", "w") as f:
+    with open(".\output\output_task1_R3.json", "w") as f:
         f.write(data)
         print("Data Migration complete.\nOutput file is at " + f.name)
 except PermissionError:

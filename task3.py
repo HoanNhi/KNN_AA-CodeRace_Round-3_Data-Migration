@@ -2,7 +2,7 @@ import git
 import sys
 
 branch = "Test_Branch"
-origin = "https://github.com/Khoa-Nguyen-Kevin/CodeRace_Round-3_Data-Migration.git"
+origin = "https://github.com/nlthanhcse/Bosch_CodeRace_KNN_AA"
 input_file_path = sys.argv[1]
 #Initialize repository
 repo = git.Repo.init()

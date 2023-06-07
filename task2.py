@@ -132,7 +132,7 @@ def writeJSONtoRst(input_file_path, config_file_path, output_file_path):
                         if line == '':
                             continue
                         rstData.content(line)
-                    rstData.newline()
+                        rstData.newline()
                 #Sub-directives
                 for value in sub_directiveTexts:
                     rstData.directive(name=value[0],content=value[1])

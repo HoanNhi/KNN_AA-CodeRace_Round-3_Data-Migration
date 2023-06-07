@@ -5,9 +5,10 @@ import sys
 
 
 
-#input_file_path = sys.argv[1]
-input_file_path = "Requirements.reqif"
-config_file_path = "testconfig3.json"
+input_file_path = sys.argv[1]
+config_file_path = sys.argv[2]
+#input_file_path = "Requirements.reqif"
+#config_file_path = "testconfig3.json"
 data = {}
 
 
